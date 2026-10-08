@@ -1,29 +1,33 @@
 # Library Management System - Java OOP Project
 
-Yeh project Java mein Object-Oriented Programming (OOP) concepts ko use kar ke banaya gaya hai jo Command Line Interface (CLI) par chalta hai. Is system mein books, members (students aur staff), loans, aur fine calculation ko manage karne ke liye complete classes aur text file database (`books.txt`, `loans.txt`, `members.txt`) ka use kiya gaya hai[cite: 3]. Is project ko M. Farooq ne GIFT University ke liye develop kiya hai[cite: 1, 3].
+A fully functional Library Management System developed using Object-Oriented Programming (OOP) concepts in Java and executed through a Command Line Interface (CLI). This system manages books, members (students and staff), loans, and fine calculations, with data persistence handled via flat text files.
 
-### Features aur Tech Stack
-- **OOP Classes:** Book, Category, FineCalculator, Librarian, LibrarySystem, Loan, Member, Staff, Student, aur Main[cite: 3].
-- **Fine Calculation:** Late returns par fine calculate karne ka logic FineCalculator mein mojood hai[cite: 3].
-- **Data Storage:** Sara data text files mein save hota hai taake record mehfooz rahe[cite: 3].
-- **Tech Stack:** Java, OOP principles, aur Text Files[cite: 3].
+### Project Overview & Tech Stack
+- **Language:** Java
+- **Design Paradigm:** Object-Oriented Programming (OOP)
+- **Core Classes:** Book, Category, FineCalculator, Librarian, LibrarySystem, Loan, Member, Staff, Student, and Main.
+- **Data Storage:** Flat text files (`books.txt`, `loans.txt`, `members.txt`) ensuring lightweight and direct record keeping.
+- **Key Modules:** Automated fine calculation for late book returns, multi-role member handling, and interactive CLI controller.
 
 ### Project Structure
 submission/
-├── Book.java[cite: 3]
-├── Category.java[cite: 3]
-├── FineCalculator.java[cite: 3]
-├── Librarian.java[cite: 3]
-├── LibrarySystem.java[cite: 3]
-├── Loan.java[cite: 3]
-├── Main.java[cite: 3]
-├── Member.java[cite: 3]
-├── Staff.java[cite: 3]
-├── Student.java[cite: 3]
-├── books.txt[cite: 3]
-├── loans.txt[cite: 3]
-└── members.txt[cite: 3]
+├── Book.java
+├── Category.java
+├── FineCalculator.java
+├── Librarian.java
+├── LibrarySystem.java
+├── Loan.java
+├── Main.java
+├── Member.java
+├── Staff.java
+├── Student.java
+├── books.txt
+├── loans.txt
+└── members.txt
 
+### How to Run
+1. Clone the repository:
+git clone [https://github.com/farokhan522-blip/Library-Management-System.git](https://github.com/farokhan522-blip/Library-Management-System.git)
 
 ### Developer Info
 - **Developer:** M. Farooq (Farooq Khan)[cite: 1]
