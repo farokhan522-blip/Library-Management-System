@@ -30,6 +30,6 @@ submission/
 git clone [https://github.com/farokhan522-blip/Library-Management-System.git](https://github.com/farokhan522-blip/Library-Management-System.git)
 
 ### Developer Info
-- **Developer:** M. Farooq (Farooq Khan)[cite: 1]
-- **Institution:** GIFT University[cite: 1]
-- **GitHub:** farokhan522-blip[cite: 1]
+- **Developer:** M. Farooq Adnan Khan(Farooq Khan)
+- **Institution:** GIFT University
+- **GitHub:** farokhan522-blip
